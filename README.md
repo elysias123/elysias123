@@ -2,7 +2,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td>
+    <td width="50%" align="center">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=elysias123&show_icons=true&hide_border=true&theme=dark&bg_color=00000000"
@@ -17,7 +17,7 @@
         />
       </picture>
     </td>
-    <td>
+    <td width="50%" align="center">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elysias123&layout=compact&hide_border=true&langs_count=20&theme=dark&bg_color=00000000"
