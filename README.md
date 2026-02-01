@@ -2,40 +2,32 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=elysias123&show_icons=true&hide_border=true&theme=dark&bg_color=00000000"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=elysias123&show_icons=true&hide_border=true&theme=default&bg_color=00000000"
-          media="(prefers-color-scheme: light)"
-        />
+    <td>
+      <a href="https://#gh-light-mode-only">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=elysias123&show_icons=true&theme=default"
-        />
-      </picture>
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=elysias123&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=elysias123&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
     </td>
-    <td width="50%" align="center">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elysias123&layout=compact&hide_border=true&langs_count=20&theme=dark&bg_color=00000000"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elysias123&layout=compact&hide_border=true&langs_count=20&theme=default&bg_color=00000000"
-          media="(prefers-color-scheme: light)"
-        />
+    <td>
+      <a href="https://#gh-light-mode-only">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysias123&layout=compact&hide_border=true&langs_count=20&theme=default"
-        />
-      </picture>
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elysias123&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elysias123&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
+          height="200" />
+      </a>
     </td>
   </tr>
 </table>
-
-
 
 
 ### my blog
